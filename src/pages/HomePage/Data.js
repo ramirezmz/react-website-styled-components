@@ -45,7 +45,7 @@ export const homeObjThree = {
     "Their team is wonderful! I can't believe I didn't start working with them earlier.",
   buttonLabel: 'View Case Study',
   imgStart: 'start',
-  img: require('../../images/pedrinho.jpeg').default,
+  img: require('../../images/earth.jpg').default,
   alt: 'Vault',
   start: 'true'
 };
