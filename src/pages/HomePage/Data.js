@@ -16,11 +16,11 @@ export const homeObjOne = {
 };
 
 export const homeObjTwo = {
-  primary: true,
-  lightBg: false,
-  lightTopLine: true,
-  lightText: true,
-  lightTextDesc: true,
+  primary: false,
+  lightBg: true,
+  lightTopLine: false,
+  lightText: false,
+  lightTextDesc: false,
   topLine: 'Instant Setup',
   headline: 'Extremely quick onboarding process',
   description:
@@ -33,11 +33,11 @@ export const homeObjTwo = {
 };
 
 export const homeObjThree = {
-  primary: false,
-  lightBg: true,
-  lightTopLine: false,
-  lightText: false,
-  lightTextDesc: false,
+  primary: true,
+  lightBg: false,
+  lightTopLine: true,
+  lightText: true,
+  lightTextDesc: true,
   topLine: 'Sarah Jeni',
   headline:
     'Ultra helped me increase my revenue by over 3X in less than 3 months!',
